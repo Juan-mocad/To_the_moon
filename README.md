@@ -1,6 +1,3 @@
-¡Entendido! Aquí tienes el **README** en español:
-
----
 
 # Análisis de Criptomonedas con Machine Learning
 
